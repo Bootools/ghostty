@@ -14,7 +14,7 @@ font-size			= 16
 
 # THEMING
 theme				= light:Github,dark:Adventure
-title				= " "
+title				= Ghostty
 window-padding-y		= 0
 window-padding-x		= 0
 window-padding-balance		= true
