@@ -13,7 +13,7 @@ font-feature			= ss09
 font-size			= 16
 
 # THEMING
-theme				= light:Github,dark:Adventure
+theme				= light:tokyonight-day,dark:tokyonight
 title				= Ghostty
 window-padding-y		= 0
 window-padding-x		= 0
