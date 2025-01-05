@@ -19,6 +19,8 @@ window-padding-y		= 0
 window-padding-x		= 0
 window-padding-balance		= true
 window-padding-color		= extend
+window-height			= 36
+window-width			= 144
 
 ## MACOS-SPECIFIC
 macos-titlebar-style		= hidden
